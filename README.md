@@ -11,3 +11,7 @@
 ![picture](/images/screenshot11.png)
 
 3. Pada gambar ketiga ini adalah Display ketika user memilih menu 1
+
+![picture](/images/screenshot3.png)
+
+4. Pada gambar keempat ini adalah Display ketika user memilih menu untuk memesan tiker 
