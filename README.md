@@ -14,4 +14,5 @@
 
 ![picture](/images/screenshot3.png)
 
-4. Pada gambar keempat ini adalah Display ketika user memilih menu untuk memesan tiker 
+4. Pada gambar keempat ini adalah Display ketika user memilih menu untuk memesan E-Ticket Biokop 
+
