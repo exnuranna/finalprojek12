@@ -2,7 +2,7 @@
 
 ![images1](/images/download.jpg)
 
-![picture](/screenshots/PNGFile.png)
+![picture](/screenshots/screenshot1.png)
 
 
 
