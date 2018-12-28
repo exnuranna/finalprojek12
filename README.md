@@ -8,6 +8,10 @@
 
 2. Pada gambar kedua ini adalah Menu yang tersedia untuk E-Ticket Bioskop 
 
+3. ![picture](/images/screenshot11.png)
+
+pada gambar ketiga ini adalah Display ketika user memilih menu 1  
+
 ![picture](/images/screenshot3.png)
 
 3. Pada gambar ketiga ini adalah Display ketika user memilih menu 1
