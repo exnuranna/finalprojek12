@@ -44,9 +44,6 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 10. Display ketika user untuk keluar dari program E-Ticket Bioskop 
 
-Project E-Ticket Biskop memiliki berbagai macam source code didalamnya, diantaranya terdapat linkedlist, Struct, 
-Queue, read from text. Adapun source code dari setiap masing-masingnya adalah 
-
 ![picture](/images/linkedlist1.jpg)
 (linkedlist)
 
