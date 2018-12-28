@@ -4,7 +4,7 @@ Project E-Ticket Biskop memiliki berbagai macam source code didalamnya, diantara
 Queue, read from text. Adapun source code dari setiap masing-masingnya adalah 
 
 ![picture](/images/linkedlist1.jpg)
-(Linkedlist)
+(linkedlist)
 
 ![picture](/images/struct1.jpg)
 (struct)
