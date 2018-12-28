@@ -1,6 +1,6 @@
 # finalprojek12
 
-![picture](/images/Linkedlist.jpg)
+![picture](/images/linkedlist.jpg)
 
 merupakan sebuah source code untuk Linked list, yang dimana difungsikan untuk
 ![picture](/images/screenshot1.png)
