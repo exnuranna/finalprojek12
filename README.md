@@ -1,20 +1,5 @@
 # finalprojek12
 
-Project E-Ticket Biskop memiliki berbagai macam source code didalamnya, diantaranya terdapat linkedlist, Struct, 
-Queue, read from text. Adapun source code dari setiap masing-masingnya adalah 
-
-![picture](/images/linkedlist1.jpg)
-(linkedlist)
-
-![picture](/images/struct1.jpg)
-(struct)
-
-![picture](/images/queue1.jpg)
-(queue)
-
-![picture](/images/readfromtext1.jpg)
-(read from text)
-
 Adapun tampilan awal dari Program kami adalah : 
 
 ![picture](/images/screenshot1.png)
@@ -59,5 +44,19 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 10. Display ketika user untuk keluar dari program E-Ticket Bioskop 
 
+Project E-Ticket Biskop memiliki berbagai macam source code didalamnya, diantaranya terdapat linkedlist, Struct, 
+Queue, read from text. Adapun source code dari setiap masing-masingnya adalah 
+
+![picture](/images/linkedlist1.jpg)
+(linkedlist)
+
+![picture](/images/struct1.jpg)
+(struct)
+
+![picture](/images/queue1.jpg)
+(queue)
+
+![picture](/images/readfromtext1.jpg)
+(read from text)
 
 
