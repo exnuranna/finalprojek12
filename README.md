@@ -14,7 +14,7 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 ![picture](/images/screenshot3.png)
 
-3. Pada gambar ketiga ini adalah Display ketika user memilih menu 1
+3. Pada gambar keempat ini adalah Display ketika User 
 
 ![picture](/images/screenshot4.png)
 
@@ -43,3 +43,5 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 ![picture](/images/screenshot10.png)
 
 10. Display ketika user untuk keluar dari program E-Ticket Bioskop 
+
+![picture](/images/main.png)
