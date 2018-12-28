@@ -1,5 +1,8 @@
 # finalprojek12
 
+![picture](/images/Linkedlist.jpg)
+
+merupakan sebuah source code untuk Linked list, yang dimana difungsikan untuk
 ![picture](/images/screenshot1.png)
 
 1.Pada gambar pertama ini, menunjukkan intial display dari Projek E-Ticket Bioskop
@@ -44,4 +47,5 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 10. Display ketika user untuk keluar dari program E-Ticket Bioskop 
 
-![picture](/images/Linkedlist.jpg)
+
+
