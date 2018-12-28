@@ -46,18 +46,14 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 ![picture](/images/linkedlist1.jpg)
 
-linkedlist
 
 ![picture](/images/struct1.jpg)
 
-struct
 
 ![picture](/images/queue1.jpg)
 
-queue
 
 ![picture](/images/readfromtext1.jpg)
 
-read from text
 
 
