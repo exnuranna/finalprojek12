@@ -50,7 +50,7 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 ![picture](/images/struct1.jpg)
 
 
-![picture](/images/queue1.jpg)
+![picture](/images/queue1.jpg) 
 
 
 ![picture](/images/readfromtext1.jpg)
