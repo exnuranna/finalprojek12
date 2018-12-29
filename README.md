@@ -44,16 +44,4 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 10. Display ketika user untuk keluar dari program E-Ticket Bioskop 
 
-![picture](/images/linkedlist1.jpg)
-
-
-![picture](/images/struct1.jpg)
-
-
-![picture](/images/queue1.jpg) 
-
-
-![picture](/images/readfromtext1.jpg)
-
-
 
