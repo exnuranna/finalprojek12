@@ -16,7 +16,6 @@ Queue
 Read From Text
 
 Selain itu, kami juga menggunakan modular dalam implementasi program kami, 
-![picture](/images/screenshot 31.jpg)
 
 
 Adapun tampilan awal dari Program kami adalah : 
