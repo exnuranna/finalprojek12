@@ -26,29 +26,29 @@ Adapun tampilan awal dari Program kami adalah :
 
 2. Menu utama yang tersedia untuk E-Ticket Bioskop 
 
-3. ![picture](/images/screenshot11.png)
+ ![picture](/images/screenshot11.png)
 
 Display ketika user memilih menu 1  
 
 ![picture](/images/screenshot3.png)
 
-3. Pada gambar keempat ini adalah Display ketika User 
+3. Pada gambar keempat ini adalah Display ketika User melihat jadwal film 
 
 ![picture](/images/screenshot4.png)
 
-4. Pada gambar keempat ini adalah Display ketika user memilih menu untuk memesan E-Ticket Biokop 
+4. Display ketika user memilih menu untuk memesan E-Ticket Biokop 
 
 ![picture](/images/screenshot5.png)
 
-5. Pada gambar kelima ini adalah display ketika user membatalkan pemesanan E-Ticket Biskop 
+5. Display ketika user membatalkan pemesanan E-Ticket Biskop 
 
 ![picture](/images/screenshot6.png)
 
-6. Pada gambar keenam ini adalah Display ketika user ingin mencari jadwal film yang tayang di Bioskop 
+6. Display ketika user ingin mencari jadwal film yang tayang di Bioskop 
 
 ![picture](/images/screenshot7.png)
 
-7. Pada gambar ketujuh ini, menunjukan bahwa program dapat merecords pemesanan user 
+7. Pada gambar ini, menunjukkan bahwa program dapat merecords pemesanan user 
 
 ![picture](/images/screenshot8.png)
 
