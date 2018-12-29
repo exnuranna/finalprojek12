@@ -1,5 +1,17 @@
 # finalprojek12
 
+Program E-Ticket Bioskop dilengkapi dengan Linked List, Struct, Queue, dan read from text. 
+Adapun  Source codenya adalah sebagai berikut :
+
+![picture](/images/linkedlist1.jpg)
+
+![picture](/images/struct1.jpg)
+
+![picture](/images/queue1.jpg)
+
+![picture](/images/read1.jpg)
+
+
 Adapun tampilan awal dari Program kami adalah : 
 
 ![picture](/images/screenshot1.png)
@@ -44,10 +56,3 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 10. Display ketika user untuk keluar dari program E-Ticket Bioskop 
 
-![picture](/images/linkedlist1.jpg)
-
-![picture](/images/struct1.jpg)
-
-![picture](/images/queue1.jpg)
-
-![picture](/images/read1.jpg)
