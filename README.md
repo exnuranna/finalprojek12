@@ -14,7 +14,10 @@ Queue
 
 ![picture](/images/read1.jpg)
 Read From Text
+
 Selain itu, kami juga menggunakan modular dalam implementasi program kami, 
+![picture](/images/screenshot31.jpg)
+
 
 Adapun tampilan awal dari Program kami adalah : 
 
