@@ -46,3 +46,5 @@ pada gambar ketiga ini adalah Display ketika user memilih menu 1
 
 ![picture](/images/linkedlist1.jpg)
 
+![picture](/images/struct1.jpg)
+
