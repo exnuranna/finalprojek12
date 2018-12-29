@@ -4,13 +4,17 @@ Program E-Ticket Bioskop dilengkapi dengan Linked List, Struct, Queue, dan read 
 Adapun  Source codenya adalah sebagai berikut :
 
 ![picture](/images/linkedlist1.jpg)
+Linkedlist
 
 ![picture](/images/struct1.jpg)
+Struct
 
 ![picture](/images/queue1.jpg)
+Queue
 
 ![picture](/images/read1.jpg)
-
+Read From Text
+Selain itu, kami juga menggunakan modular dalam implementasi program kami, 
 
 Adapun tampilan awal dari Program kami adalah : 
 
